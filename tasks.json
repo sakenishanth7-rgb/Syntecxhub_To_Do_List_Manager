@@ -1,0 +1,14 @@
+[
+    {
+        "task": "Practice Python",
+        "tag": "Learning",
+        "due_date": "10-06-2026",
+        "done": false
+    },
+    {
+        "task": "Complete Internship Task",
+        "tag": "Project",
+        "due_date": "15-06-2026",
+        "done": true
+    }
+]
